@@ -1,6 +1,5 @@
 # Advanced Library Management System
 
-**DMDD‑Group‑10**  
 A Library Management System with a dedicated UI, where the backend framework primarily redirected queries to code logic implemented entirely in .sql files, leveraging Azure SQL Edge with complex triggers, stored procedures, user-defined functions, and views.
 
 ---
